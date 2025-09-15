@@ -9,7 +9,7 @@
       - Die: การเคลื่อนไหวเมื่อตัวละครตาย (หยุดการเคลื่อนไหว)
  
 ภาพตัวอย่างเกม (Screenshots)
-(https://1drv.ms/i/c/385cbbe7fcf1df7d/EdRL1-LMhcBAPrNkYqoq69gBIUVhXdpNMrdtBqhcZzaqrA?e=gMakO0)
+
 
 -การเคลื่อนไหวของตัวละคร (Character Movement)
 ภาพหน้าจอแสดงตัวละครกำลังเดิน
